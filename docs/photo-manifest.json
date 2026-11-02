@@ -1,0 +1,419 @@
+{
+  "checked": "2026-11-03",
+  "images": [
+    {
+      "id": "gas-syringe",
+      "source": "https://commons.wikimedia.org/wiki/File:Gas_syringe.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Gas_syringe.jpg",
+      "license": "CC BY-SA 3.0",
+      "files": [
+        {
+          "path": "assets/photos/gas-syringe.jpg",
+          "bytes": 59987,
+          "sha256": "8e2e897a41fb10bc5d78c0cf378e265b768cbd0e6fc6a2534edd15bd14c75ae2"
+        },
+        {
+          "path": "assets/photos/gas-syringe-small.jpg",
+          "bytes": 17896,
+          "sha256": "e2519ff90fccfb35b6056a68857fc08a1cc3cbe9c1e4a9bd43e59aa0e5689705"
+        }
+      ]
+    },
+    {
+      "id": "steam",
+      "source": "https://commons.wikimedia.org/wiki/File:Steaming,_boiling_water,_El_Tatio_(5897012063).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Steaming%2C_boiling_water%2C_El_Tatio_%285897012063%29.jpg",
+      "license": "CC BY-SA 2.0",
+      "files": [
+        {
+          "path": "assets/photos/steam.jpg",
+          "bytes": 274632,
+          "sha256": "4b2a7eb8ccf9fb9a3df5d0997bd14cf8f3497952a6deb6c18ec0f39f97fba0ff"
+        },
+        {
+          "path": "assets/photos/steam-small.jpg",
+          "bytes": 22391,
+          "sha256": "7502b569ec08a03c6e3c661c8df936434f00216342e7d51a4f414d1e1fefbee7"
+        }
+      ]
+    },
+    {
+      "id": "halite",
+      "source": "https://commons.wikimedia.org/wiki/File:Halite_crystals_(four).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Halite_crystals_%28four%29.jpg",
+      "license": "CC BY 2.0",
+      "files": [
+        {
+          "path": "assets/photos/halite.jpg",
+          "bytes": 158874,
+          "sha256": "3fd92868799a938b9d0f2a35d3a35f33ddbbd6087d4e8d3e3fbbeb8864acec2a"
+        },
+        {
+          "path": "assets/photos/halite-small.jpg",
+          "bytes": 18383,
+          "sha256": "e807d16c51f8af6a97d752d58d7b7243d7df50bdc0c6b78ca20d5f2ac984a8aa"
+        }
+      ]
+    },
+    {
+      "id": "engine",
+      "source": "https://commons.wikimedia.org/wiki/File:RS-25_Engine_Hot_Fire_Test.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/RS-25_Engine_Hot_Fire_Test.jpg",
+      "license": "Public domain",
+      "files": [
+        {
+          "path": "assets/photos/engine.jpg",
+          "bytes": 244648,
+          "sha256": "9b334231e9aa7a6a8eee099b8ad319e7023aa90e0e9f9dd4a5e8256af438b216"
+        },
+        {
+          "path": "assets/photos/engine-small.jpg",
+          "bytes": 27999,
+          "sha256": "c987910ae51d3bfdfb85420a4c90d982dc7cf01cf443f26384bb1532708b74b5"
+        }
+      ]
+    },
+    {
+      "id": "charges",
+      "source": "https://commons.wikimedia.org/wiki/File:Muller_Van_de_Graaff_generator_demonstration.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Muller_Van_de_Graaff_generator_demonstration.jpg",
+      "license": "Public domain",
+      "files": [
+        {
+          "path": "assets/photos/charges.jpg",
+          "bytes": 59910,
+          "sha256": "d0110ee9c02da62abe84f0102ff8f77fd94c816f76a2e96f1ebefa8ec43b3802"
+        },
+        {
+          "path": "assets/photos/charges-small.jpg",
+          "bytes": 23719,
+          "sha256": "ed0eae461f820e172a6a96637bcb9c1b8ec152545abc5c264065eca3722d7f91"
+        }
+      ]
+    },
+    {
+      "id": "waves",
+      "source": "https://commons.wikimedia.org/wiki/File:A_3D_Visualisation_of_2_Source_Interference_in_Ripple_Tank.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/A_3D_Visualisation_of_2_Source_Interference_in_Ripple_Tank.jpg",
+      "license": "CC0",
+      "files": [
+        {
+          "path": "assets/photos/waves.jpg",
+          "bytes": 163385,
+          "sha256": "f11e90b9e083349205241e36de4582f712b2b5b8cbe42bccd8254b368125693f"
+        },
+        {
+          "path": "assets/photos/waves-small.jpg",
+          "bytes": 20946,
+          "sha256": "252f90b3a9c6d8838e76748e533abf678b00bd9343c5797a55d9fcecf8f84ac0"
+        }
+      ]
+    },
+    {
+      "id": "spectrum",
+      "source": "https://commons.wikimedia.org/wiki/File:Dispersion_of_light_exhibit,_Urania_Museum.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Dispersion_of_light_exhibit%2C_Urania_Museum.jpg",
+      "license": "CC BY 3.0",
+      "files": [
+        {
+          "path": "assets/photos/spectrum.jpg",
+          "bytes": 112020,
+          "sha256": "2271698bf72252a3d5eb08f419fd72686ba57a38f65d8992e14d6de281772b18"
+        },
+        {
+          "path": "assets/photos/spectrum-small.jpg",
+          "bytes": 14017,
+          "sha256": "a3910a9d3e37964341c143886663f7bbe04a1eecbff41ec5c080a43fb8f8917d"
+        }
+      ]
+    },
+    {
+      "id": "electrons",
+      "source": "https://commons.wikimedia.org/wiki/File:Double-slit_experiment_results_Tonomura_four.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Double-slit_experiment_results_Tonomura_four.jpg",
+      "license": "CC BY-SA 3.0",
+      "files": [
+        {
+          "path": "assets/photos/electrons.jpg",
+          "bytes": 337757,
+          "sha256": "218023a3f251754cf40b48ca152e7119d45437a89a379eb1984d48ac46c49363"
+        },
+        {
+          "path": "assets/photos/electrons-small.jpg",
+          "bytes": 41881,
+          "sha256": "f5b58fa5f0dcc5101b40eb4228a38c065ddbcf76da224295a6659812043b3cc8"
+        }
+      ]
+    },
+    {
+      "id": "cell",
+      "source": "https://commons.wikimedia.org/wiki/File:FluorescentCells.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/FluorescentCells.jpg",
+      "license": "Public domain",
+      "files": [
+        {
+          "path": "assets/photos/cell.jpg",
+          "bytes": 44954,
+          "sha256": "5a4c0205317b72efa6626e2586beadcb6d342cfef64c1b6a00e82b2f34cd1c03"
+        },
+        {
+          "path": "assets/photos/cell-small.jpg",
+          "bytes": 30473,
+          "sha256": "224a5dec43cbbe24aaa1b38798cddc966c26a54d2a573ccaac3c357a63a9e044"
+        }
+      ]
+    },
+    {
+      "id": "dna",
+      "source": "https://commons.wikimedia.org/wiki/File:Mimivirus_microscopic_images_-_journal.pbio.1000092.g006.png",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Mimivirus_microscopic_images_-_journal.pbio.1000092.g006.png",
+      "license": "CC BY 2.5",
+      "files": [
+        {
+          "path": "assets/photos/dna.jpg",
+          "bytes": 505715,
+          "sha256": "485be9e4d06de0da2ac8c9973087ac2174de0ad51b2e547daaac5daefc173dc4"
+        },
+        {
+          "path": "assets/photos/dna-small.jpg",
+          "bytes": 47571,
+          "sha256": "6939cb96ee1376d1a85c35c9008845ecac104a6874a2264eea3cb807d6a661e6"
+        }
+      ]
+    },
+    {
+      "id": "mitochondria",
+      "source": "https://commons.wikimedia.org/wiki/File:Mitochondria,_mammalian_lung_-_TEM.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Mitochondria%2C_mammalian_lung_-_TEM.jpg",
+      "license": "Public domain",
+      "files": [
+        {
+          "path": "assets/photos/mitochondria.jpg",
+          "bytes": 73051,
+          "sha256": "c08f8853367e51789f865515f495e15e2ea448eadc5fad334fb8c1cc8276d571"
+        },
+        {
+          "path": "assets/photos/mitochondria-small.jpg",
+          "bytes": 28426,
+          "sha256": "9b19874cbdf8bf6f0931c84d005f8ae18b51bffc01d952f93f0a5bb5a5ca1d9f"
+        }
+      ]
+    },
+    {
+      "id": "enzyme",
+      "source": "https://commons.wikimedia.org/wiki/File:Lysozyme_crystals.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Lysozyme_crystals.jpg",
+      "license": "CC0",
+      "files": [
+        {
+          "path": "assets/photos/enzyme.jpg",
+          "bytes": 50703,
+          "sha256": "232682c68eb33e4129154dcd11dcc899349359a5dd6a2f883a7dc8588a1bd9a1"
+        },
+        {
+          "path": "assets/photos/enzyme-small.jpg",
+          "bytes": 10306,
+          "sha256": "070e85c9fac3f950bb32d6df4c61c3aa1d65a3b427407bb1ef13bdf2c5bbd796"
+        }
+      ]
+    },
+    {
+      "id": "stopwatch",
+      "source": "https://commons.wikimedia.org/wiki/File:Stopwatch,_1810201155,_ako.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Stopwatch%2C_1810201155%2C_ako.jpg",
+      "license": "CC BY-SA 4.0",
+      "files": [
+        {
+          "path": "assets/photos/stopwatch.jpg",
+          "bytes": 92672,
+          "sha256": "d911c4bde3fd38fdb0461bf67abe383d41cd69ba9996ec2d641bc411f0df69dd"
+        },
+        {
+          "path": "assets/photos/stopwatch-small.jpg",
+          "bytes": 12630,
+          "sha256": "6bbebd00332a8e3b1b7673ac9be253a87e04bd1585aa000c35e5d985334ff43d"
+        }
+      ]
+    },
+    {
+      "id": "pulley",
+      "source": "https://commons.wikimedia.org/wiki/File:Beaufort_-_Harvey_W._Smith_Watercraft_Center_-_2013-06_-_3.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Beaufort_-_Harvey_W._Smith_Watercraft_Center_-_2013-06_-_3.JPG",
+      "license": "CC BY-SA 3.0",
+      "files": [
+        {
+          "path": "assets/photos/pulley.jpg",
+          "bytes": 136178,
+          "sha256": "4ed1cfce5afbd5d4051b8a254986163460c4d161d97ca7345213c17e1896fcd2"
+        },
+        {
+          "path": "assets/photos/pulley-small.jpg",
+          "bytes": 22367,
+          "sha256": "51b689f631707e4461d24f904e3aa964a5fdb5a194887d695d208ad13d8ea29d"
+        }
+      ]
+    },
+    {
+      "id": "spring",
+      "source": "https://commons.wikimedia.org/wiki/File:Compression_springs_20101109.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Compression_springs_20101109.jpg",
+      "license": "Public domain",
+      "files": [
+        {
+          "path": "assets/photos/spring.jpg",
+          "bytes": 90038,
+          "sha256": "77a0d99bd2889d011e7e988c61ba2041b94b834ad5ad42275211607efdc47b88"
+        },
+        {
+          "path": "assets/photos/spring-small.jpg",
+          "bytes": 15472,
+          "sha256": "507e8c0d22966a1c6d535791c34360673d258be66fcc61e64f40c52992723837"
+        }
+      ]
+    },
+    {
+      "id": "clock",
+      "source": "https://commons.wikimedia.org/wiki/File:NIST-F2_cesium_fountain_atomic_clock.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/NIST-F2_cesium_fountain_atomic_clock.jpg",
+      "license": "Public domain",
+      "files": [
+        {
+          "path": "assets/photos/clock.jpg",
+          "bytes": 196599,
+          "sha256": "eba5d9a0da816e40609c407fb5fa13c538eb02203d8862a21a95ffb6724d35ce"
+        },
+        {
+          "path": "assets/photos/clock-small.jpg",
+          "bytes": 27762,
+          "sha256": "0a1d9f565cd33d242dcccbaa7fc6cadee1fff17119614fc58557175bf4f2d1c8"
+        }
+      ]
+    },
+    {
+      "id": "reflector",
+      "source": "https://commons.wikimedia.org/wiki/File:Laser_Ranging_Retro-Reflector,_Apollo_(NASM2020-00366).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Laser_Ranging_Retro-Reflector%2C_Apollo_%28NASM2020-00366%29.jpg",
+      "license": "CC0",
+      "files": [
+        {
+          "path": "assets/photos/reflector.jpg",
+          "bytes": 120578,
+          "sha256": "299a4204d2c31218f3f89fd78d02f580fbaa1842028293a795b5fc7aa7de9ec0"
+        },
+        {
+          "path": "assets/photos/reflector-small.jpg",
+          "bytes": 17479,
+          "sha256": "a77d2369a30fdd1966056c79ce860d69f4889a1d90806090abd39d7497de8c2c"
+        }
+      ]
+    },
+    {
+      "id": "zircon",
+      "source": "https://commons.wikimedia.org/wiki/File:Zircon-dtn1a.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Zircon-dtn1a.jpg",
+      "license": "CC BY-SA 3.0",
+      "files": [
+        {
+          "path": "assets/photos/zircon.jpg",
+          "bytes": 42843,
+          "sha256": "0225fa0fbae79d4d989453b280adba47366d532d774c64e3f281f48de2fe671a"
+        },
+        {
+          "path": "assets/photos/zircon-small.jpg",
+          "bytes": 18410,
+          "sha256": "1532cdbe7046281888140c6e90c09eef77b73e45b6b43ab2df4e382fe2d4981b"
+        }
+      ]
+    },
+    {
+      "id": "atoms",
+      "source": "https://commons.wikimedia.org/wiki/File:Atomic_resolution_Au100.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Atomic_resolution_Au100.JPG",
+      "license": "Public domain",
+      "files": [
+        {
+          "path": "assets/photos/atoms.jpg",
+          "bytes": 45012,
+          "sha256": "fd3e9523bc6e3c72866bea94b082c5523503077f1964ba01e961d385af3122a0"
+        },
+        {
+          "path": "assets/photos/atoms-small.jpg",
+          "bytes": 28598,
+          "sha256": "b01322245030294a212b156405605ec1aee62fa6dec8d6fc59a0debc2d900954"
+        }
+      ]
+    },
+    {
+      "id": "coin",
+      "source": "https://commons.wikimedia.org/wiki/File:Coin_Toss_(3635981474).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Coin_Toss_%283635981474%29.jpg",
+      "license": "CC BY-SA 2.0",
+      "files": [
+        {
+          "path": "assets/photos/coin.jpg",
+          "bytes": 72815,
+          "sha256": "e21fa515c5c353dc726b253058a1a9c2d2d74e6f567f23af382d5b1bf0501946"
+        },
+        {
+          "path": "assets/photos/coin-small.jpg",
+          "bytes": 10422,
+          "sha256": "cc5fabf8db1529eaaf4893a99db11bfc3367c9872b7ef68182d4f2c7dee671a4"
+        }
+      ]
+    },
+    {
+      "id": "galton",
+      "source": "https://commons.wikimedia.org/wiki/File:Planche_de_Galton.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Planche_de_Galton.jpg",
+      "license": "CC BY-SA 3.0",
+      "files": [
+        {
+          "path": "assets/photos/galton.jpg",
+          "bytes": 156284,
+          "sha256": "4030ade2cb1b3b2a4bb5796019f8647501d2e4c1edbf9c63d65ad5e85eb57cea"
+        },
+        {
+          "path": "assets/photos/galton-small.jpg",
+          "bytes": 21846,
+          "sha256": "f2334c89ca8822dcfb0a4392041550eb623c63a7b7b4490c3a4e95898734bfd0"
+        }
+      ]
+    },
+    {
+      "id": "earth",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Blue_Marble,_AS17-148-22727.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg",
+      "license": "Public domain",
+      "files": [
+        {
+          "path": "assets/photos/earth.jpg",
+          "bytes": 374190,
+          "sha256": "8a1c28b9b9001a545f019a8c70ebab8adaebe3ce25ba13429bf739aeb3a3bc94"
+        },
+        {
+          "path": "assets/photos/earth-small.jpg",
+          "bytes": 38854,
+          "sha256": "03ce5a1648a9e22494f0e6d031401b21f882d06e4404ca51977ee41e41317657"
+        }
+      ]
+    },
+    {
+      "id": "sun",
+      "source": "https://commons.wikimedia.org/wiki/File:SDO_20101127_034913_4096_0171_(AIA).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/SDO_20101127_034913_4096_0171_%28AIA%29.jpg",
+      "license": "Public domain",
+      "files": [
+        {
+          "path": "assets/photos/sun.jpg",
+          "bytes": 181204,
+          "sha256": "57781b52d02e1e98e7df32c5ab610c8e1c7e50f9036a050df16e6b5d6e226b17"
+        },
+        {
+          "path": "assets/photos/sun-small.jpg",
+          "bytes": 23211,
+          "sha256": "d28e291d84d25b7e3785fea897dbcee798e053792fed7266b9be0cc5977fa04a"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+<!doctype html>
+<html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Проверка загрузки фотографий</title><link rel="stylesheet" href="../assets/course.css"><script src="../assets/photo-data.js" defer></script></head><body><main style="max-width:1100px;margin:auto"><a href="../photos.html">← К галерее</a><h1>Загрузка всех фотографий</h1><p>Проверяется настоящее декодирование 23 полных кадров и 23 превью браузером. Размеры сравниваются с каталогом. Проверка использует только файлы этого сайта.</p><button id="run" type="button">Проверить 46 изображений</button><p id="result" role="status">Проверка ещё не запущена</p><table class="reading-table"><thead><tr><th>Файл</th><th>Размер</th><th>Результат</th></tr></thead><tbody id="rows"></tbody></table></main><script>
+'use strict';
+document.getElementById('run').onclick=async function(){
+ this.disabled=true;const rows=document.getElementById('rows'),result=document.getElementById('result');rows.replaceChildren();result.textContent='Загрузка…';let passed=0,total=0;
+ await Promise.all(Object.values(window.LabPhotoData.photos).flatMap(p=>[[p.src,p.width,p.height],[p.thumb,p.thumbWidth,p.thumbHeight]]).map(async([src,width,height])=>{
+  const row=document.createElement('tr'),name=document.createElement('td'),size=document.createElement('td'),status=document.createElement('td');name.textContent=src;status.textContent='Загрузка…';row.append(name,size,status);rows.append(row);const image=new Image();image.src='../'+src;total++;
+  try{await image.decode();size.textContent=image.naturalWidth+' × '+image.naturalHeight;const ok=image.naturalWidth===width&&image.naturalHeight===height;status.textContent=ok?'OK':'Размер не совпал';row.dataset.result=ok?'pass':'fail';if(ok)passed++;}catch(e){status.textContent='Не загрузилось';row.dataset.result='fail';}
+ }));
+ result.textContent='Загружено и проверено '+passed+' из '+total;result.dataset.result=passed===total?'pass':'fail';this.disabled=false;
+};
+</script></body></html>
