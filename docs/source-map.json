@@ -1,0 +1,198 @@
+{
+  "sourceFilename": "Feynman_Feynmanovskie-lekcii-po-fizike_1_Feynmanovskie-lekcii-po-fizike-1-Sovremennaya-nauka-o-prirode-zakony-mehaniki.196277 2(1).docx",
+  "sha256": "a3a3c862b7813737a56edf6b7151eb491b537d8f4806370194bf624d02f74ae1",
+  "paragraphConvention": "1-based, all w:p descendants of word/document.xml, including empty paragraphs and tables; end inclusive; not printed page numbers",
+  "prefaces": [
+    {
+      "heading": "K читателям русского издания",
+      "paragraph": 1
+    },
+    {
+      "heading": "ПРЕДИСЛОВИЕ Р. ФЕЙНМАНА",
+      "paragraph": 19
+    },
+    {
+      "heading": "Предисловие",
+      "paragraph": 36
+    }
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "heading": "Глава 1 АТОМЫ В  ДВИЖЕНИИ",
+      "startParagraph": 52,
+      "endParagraph": 138,
+      "sections": [
+        {
+          "heading": "§ 1. Введение",
+          "paragraph": 53
+        },
+        {
+          "heading": "§ 2. Вещество состоит из атомов",
+          "paragraph": 65
+        },
+        {
+          "heading": "§ 3. Атомные процессы",
+          "paragraph": 91
+        },
+        {
+          "heading": "§ 4. Химические реакции",
+          "paragraph": 110
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "heading": "Глава 2 ОСНОВНЫЕ ФИЗИЧЕСКИЕ ВОЗЗРЕНИЯ",
+      "startParagraph": 139,
+      "endParagraph": 209,
+      "sections": [
+        {
+          "heading": "§ 1. Введение",
+          "paragraph": 140
+        },
+        {
+          "heading": "§ 2. Физика до 1920 года",
+          "paragraph": 153
+        },
+        {
+          "heading": "§ 3. Квантовая физика",
+          "paragraph": 171
+        },
+        {
+          "heading": "§4. Ядра и частицы",
+          "paragraph": 183
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "heading": "Глава  3 ФИЗИКА И ДРУГИЕ НАУКИ",
+      "startParagraph": 210,
+      "endParagraph": 268,
+      "sections": [
+        {
+          "heading": "§ 1. Введение",
+          "paragraph": 211
+        },
+        {
+          "heading": "§ 2. Химия",
+          "paragraph": 215
+        },
+        {
+          "heading": "§ 3. Биология",
+          "paragraph": 220
+        },
+        {
+          "heading": "§ 4. Астрономия",
+          "paragraph": 247
+        },
+        {
+          "heading": "§ 5. Геология",
+          "paragraph": 252
+        },
+        {
+          "heading": "§ 6. Психология",
+          "paragraph": 257
+        },
+        {
+          "heading": "§ 7. С чего все пошло?",
+          "paragraph": 260
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "heading": "Глава 4 СОХРАНЕНИЕ ЭНЕРГИИ",
+      "startParagraph": 269,
+      "endParagraph": 368,
+      "sections": [
+        {
+          "heading": "§ 1. Что такое энергия?",
+          "paragraph": 270
+        },
+        {
+          "heading": "§ 2. Потенциальная энергия тяготения",
+          "paragraph": 281
+        },
+        {
+          "heading": "§ 3. Кинетическая энергия",
+          "paragraph": 333
+        },
+        {
+          "heading": "§ 4. Прочие формы энергии",
+          "paragraph": 348
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "heading": "Глава 5 ВРЕМЯ И РАССТОЯНИЕ",
+      "startParagraph": 369,
+      "endParagraph": 485,
+      "sections": [
+        {
+          "heading": "§ 1. Движение",
+          "paragraph": 370
+        },
+        {
+          "heading": "§ 2. Время",
+          "paragraph": 381
+        },
+        {
+          "heading": "§ 3. Короткие  времена",
+          "paragraph": 386
+        },
+        {
+          "heading": "§ 4. Большие времена",
+          "paragraph": 402
+        },
+        {
+          "heading": "§ 5. Единицы и стандарты  времени",
+          "paragraph": 418
+        },
+        {
+          "heading": "§ 6.  Большие расстояния",
+          "paragraph": 422
+        },
+        {
+          "heading": "§ 7. Малые расстояния",
+          "paragraph": 452
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "heading": "Глава 6 ВЕРОЯТНОСТЬ",
+      "startParagraph": 486,
+      "endParagraph": 679,
+      "sections": [
+        {
+          "heading": "§ 1. Вероятность и правдоподобие",
+          "paragraph": 491
+        },
+        {
+          "heading": "§ 2. Флуктуации",
+          "paragraph": 511
+        },
+        {
+          "heading": "§ 3. Случайные блуждания",
+          "paragraph": 552
+        },
+        {
+          "heading": "§ 4. Распределение вероятностей",
+          "paragraph": 607
+        },
+        {
+          "heading": "§ 5. Принцип неопределенности",
+          "paragraph": 654
+        }
+      ]
+    }
+  ],
+  "stopBefore": {
+    "heading": "Глава 7 ТЕОРИЯ ТЯГОТЕНИЯ",
+    "paragraph": 680,
+    "chapter": 7
+  }
+}
